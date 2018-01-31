@@ -1,0 +1,125 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+body
+{
+	width: 970px;
+	margin: auto;
+}
+
+#wrapping
+{
+	width:970px;
+	border: 1px solid black;
+	background: lightgrey;
+	margin:0;
+	padding: 10px;
+}
+
+div
+{
+	width: 380px;
+	
+	padding: 50px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+div div:first-child
+{
+	border-right: 1px solid black;
+}
+
+h1
+{
+	margin-bottom: 20px;
+}
+
+p
+{
+	margin-bottom: 10px;
+	width: 300px;
+	
+}
+
+input
+{
+	border: 1px solid black;
+	vertical-align: text-top;
+
+
+}
+
+
+
+.centering
+{
+	text-align:center;
+	width: 670px;
+}
+
+#description1
+{
+	width:300px;
+	height: 50px;
+	resize:none;
+	
+}
+
+textarea
+{
+
+}
+
+button
+{
+	font-size: 24px;
+	width: 150px;
+	height: 50px;
+	border-radius: 10px;
+	background: lightblue;
+}
+
+form h1
+{
+	margin-top:40px;
+	width: 300px;
+	border-bottom:1px solid black;
+}
+
+.listbutton
+{
+	width: 380px;
+	height: 100px;
+	padding: 25px;
+	vertical-align: center;
+	border: 2px solid darkgray;
+	text-align: center;
+	margin-bottom: 10px;
+	
+}
+
+.listbutton p
+{
+	text-align: center;
+}
+
+h2
+{
+	font-size: 40px;
+}
+
+h5
+{
+	margin-top: 50px;
+}
+
+h4
+{
+
+	display:hide;
+}
